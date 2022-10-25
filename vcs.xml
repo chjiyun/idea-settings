@@ -10,6 +10,10 @@
           <option name="url" value="http://git.yuanbaoai.com" />
           <option name="userName" value="jiyun" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.veilytech.com" />
+          <option name="userName" value="chjiyun" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Java\workspace" />
